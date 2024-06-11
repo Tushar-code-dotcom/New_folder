@@ -6,5 +6,5 @@ int main(){
     cout<<"Checking by being on a different branch";
     return 0; //adding a new line
     //ading a new line again
-    cout<<"gayab kyu nahi ho rah"
+    cout<<"gayab kyu nahi ho rah";
 }
